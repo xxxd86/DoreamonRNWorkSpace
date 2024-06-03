@@ -5621,6 +5621,11 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-doraemon-sdk@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-doraemon-sdk/-/react-native-doraemon-sdk-1.0.5.tgz#e0eb376bc91661de344e0503961dec862f73f1a8"
+  integrity sha512-vrNV5smHMo8vAi/MQrUzalQx3m0ttNuCSXsd6U2LYpRbB6ne+/31ZRxlxNOewN3tW+uwRCOBejBnh8/MjeAkkQ==
+
 react-native@0.74.1:
   version "0.74.1"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.74.1.tgz#8f5f59636242eb1b90ff675d9fcc7f5b8b1c9913"
